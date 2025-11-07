@@ -34,3 +34,17 @@ Los mensajes deben ser:
 Actividad 3:
 
 Se pidio una clase vehiculo con un metodo y 2 clases derivadas.
+    -Se creo la clase bicicleta
+    -Se creo la clase coche
+    -Se creo el metodo mover.
+Se sobreescribe la funcionalidad del metodo mover en el interio de las clases bicicleta y coche.
+
+se crea una clase prueba. Donde se crean objetos de bicicleta y coche para mostrar el polimorfismo del metodo mover a su vez que se muestra el original con la clase vehiculo usando un objeto de esta.
+
+Actividad 4:
+
+Se pidio una clase nombrada Error con 2 sub clases con un nombre similar.
+    -Una de las clases posee un metodo que no existe en la clase padre.
+    -Una de las clases sobreescribe un metodo sin hacer ningun cambio.
+Se intenta invocar un metodo que no existe en la clase padre usando main.
+

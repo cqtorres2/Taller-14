@@ -22,7 +22,13 @@ class Bicicleta extends Vehiculo {
 
 class main {
     public static void main(String[] args) {
+        Bicicleta bicicleta = new Bicicleta();
+        Vehiculo vehiculo = new Vehiculo();
+        Coche coche = new Coche();
 
+        vehiculo.Mover();
+        bicicleta.Mover();
+        coche.Mover();
     }
 
 }
