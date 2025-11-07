@@ -9,14 +9,14 @@ public class Persona {
 class Estudiante extends Persona {
     @Override
     public void Presentarse() {
-        System.out.println("El estudiante saluda");
+        System.out.println("El estudiante dice hola");
     }
 }
 
 class Profesor extends Persona {
     @Override
     public void Presentarse() {
-        System.out.println("El profesor saluda");
+        System.out.println("El profesor dice hola");
     }
 }
 
